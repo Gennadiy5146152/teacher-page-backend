@@ -1,0 +1,19 @@
+{
+  "name": "teacherpagebackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gennadiy5146152/teacher-page-backend.git"
+  },
+  "author": "gennadiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gennadiy5146152/teacher-page-backend/issues"
+  },
+  "homepage": "https://github.com/Gennadiy5146152/teacher-page-backend#readme"
+}
